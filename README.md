@@ -11,7 +11,7 @@ A simple and interactive React application that allows users to input marks for 
   - Total Marks
   - Percentage
   - Grade based on percentage
-- Basic login screen (demo)
+- Basic login screen (username-Aarohi ,password-Aarohi123)
 - Clean and user-friendly UI
 
 ---
