@@ -16,12 +16,6 @@ A simple and interactive React application that allows users to input marks for 
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [Add your Vercel or GitHub Pages link here after deployment]
-
----
-
 ## 🖥️ Tech Stack
 
 - React JS
